@@ -3,4 +3,5 @@
 
 node_modules
 
-_site
+formatter.md
+.idea\
