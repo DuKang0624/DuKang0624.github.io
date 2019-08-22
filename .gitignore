@@ -9,3 +9,6 @@ _posts/2017-04-18-new-theme-h2o.md
 
 formatter.md
 .idea\
+*.iml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/blog.iml
